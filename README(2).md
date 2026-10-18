@@ -16,7 +16,7 @@ Try the deployed application here:
 - API-based language model responses
 - Cloud deployment with Streamlit Community Cloud
 
-> Available features depend on the implementation in `app.py`.
+> Available features depend on the implementation in `chatbot.py`.
 
 ## 🛠️ Technologies Used
 
@@ -33,7 +33,7 @@ Update this list if your project uses different tools.
 
 ```text
 GenAI-Chatbot/
-├── app.py
+├── chatbot.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
@@ -141,8 +141,12 @@ To update the deployed app, push your latest project changes to the connected Gi
 This project provides practical experience with Generative AI, language-model API integration, Python, application configuration, GitHub version control, and cloud deployment.
 
 ## 👩‍💻 Author
+Chandrika T
+https://github.com/chandrika434
+https://www.linkedin.com/in/chandrika-t-975644367
 
-Add your name, GitHub profile, and portfolio link here.
+
+
 
 ## 📄 License
 
